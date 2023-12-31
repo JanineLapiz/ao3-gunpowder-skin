@@ -24,6 +24,8 @@ A dark theme which can be used to save energy whilst reading. Some CSS elements 
 
 10. Scroll down and click the __Submit__ button.
 
+11. Go to __Dashboard__ > __Skins__ > __My Site Skins__ and use your new theme.
+
 ## Preview
 ### Home Page
 
@@ -40,5 +42,7 @@ A dark theme which can be used to save energy whilst reading. Some CSS elements 
 ### Dashboard
 ![Dashboard](images/dashboard.png)
 
-## Note
-Some styles have been left alone. They may be improved sometime in the future.
+## Notes
+- At the time of this writing, AO3 no longer supports adding new user-created skins to the list of public skins. Hence, this was created.
+
+- Some styles have been left alone. They may be improved sometime in the future.
