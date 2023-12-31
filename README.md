@@ -2,11 +2,13 @@
 A dark theme which can be used to save energy whilst reading. Some CSS elements have been tweaked to give the site a slightly modernised look.
 
 ## How to use
-1. Log in to your account on [Archive of Our Own](https://archiveofourown.org/).
-2. Go to your Profile Dashboard -- Click on your profile name on the upper right corner > __Dashboard__.
-3. On the left side panel of your __Dashboard__, click on Skins.
-4. Click on __Create Site Skin__.
-5. Fill out the __About__ section:
+1. On the right panel, click on the latest release.
+2. Download and extract the ZIP file.
+3. Log in to your account on [Archive of Our Own](https://archiveofourown.org/).
+4. Go to your Profile Dashboard -- Click on your profile name on the upper right corner > __Dashboard__.
+5. On the left side panel of your __Dashboard__, click on Skins.
+6. Click on __Create Site Skin__.
+7. Fill out the __About__ section:
 
     a. Type: Site Skin
 
@@ -16,11 +18,11 @@ A dark theme which can be used to save energy whilst reading. Some CSS elements 
 
     d. The rest of the fields are optional. You may fill it out if it pleases you.
 
-6. Copy the CSS from the `gunpowder-theme.css` file.
+8. Copy the CSS from `gunpowder-theme.css` in the folder you have extracted in __2__.
 
-7. Go back to the __Create Site Skin__ page. Under the __CSS__ section, paste the CSS into the text area.
+9. Go back to the __Create Site Skin__ page. Under the __CSS__ section, paste the CSS into the text area.
 
-8. Scroll down and click the __Submit__ button.
+10. Scroll down and click the __Submit__ button.
 
 ## Preview
 ### Home Page
@@ -37,3 +39,6 @@ A dark theme which can be used to save energy whilst reading. Some CSS elements 
 
 ### Dashboard
 ![Dashboard](images/dashboard.png)
+
+## Note
+Some styles have been left alone. They may be improved sometime in the future.
